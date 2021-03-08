@@ -1,0 +1,39 @@
+.box1{
+    height: 300px;
+}
+.teks{
+    font-size: 40px;
+}
+.box2{
+    width: 500px;
+    height: 200px;
+}
+.box2 h2{
+    font-size: 70px;
+}
+.box2 h4{
+    opacity: 30%;
+}
+.box3{
+    height: 50px;
+    width:200px;
+    border-radius: 20px;
+}
+.box3 h2{
+    color:black;
+    font-size: 27px;
+    font-style: bold;
+}
+.box4{
+    height:300px;
+    width: 300px;
+}
+.box5{
+    height: 400px;
+    width: 300px;
+}
+.box6{
+    height:250px;
+    width: 250px;
+    text-align: center;
+}
