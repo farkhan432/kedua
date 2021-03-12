@@ -1,6 +1,18 @@
 .box1{
     height: 300px;
 }
+.button {
+    border: none;
+    color: violet;
+    padding: 16px 32px;
+    text-align: center;
+    border-radius: 20px;
+    display: inline-block;
+    font-size: 25px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
 .teks{
     font-size: 40px;
 }
@@ -26,16 +38,14 @@
 }
 .box4{
     height:300px;
-    width: 300px;
+    margin-top: 90px;
 }
 .box5{
-    height: 400px;
-    width: 300px;
+    height: 500px;
+   
 }
 .box6{
     height:250px;
-    width: 250px;
-    text-align: center;
 }
 .teks1{
     font-size: 20px;
